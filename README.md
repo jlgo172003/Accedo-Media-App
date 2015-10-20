@@ -3,9 +3,8 @@
 ###Installation Requirements
 Install the following beforehand.
 
-1. Node.js
-2. Express Generator
-3. MONGODB
+1. Node.js https://nodejs.org/en/
+3. MONGODB https://www.mongodb.org/
 
 ###Installation Guide
 1. Clone the repository

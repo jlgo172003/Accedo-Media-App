@@ -8,8 +8,8 @@ var bodyParser = require('body-parser');
 //Mongo codes
 var mongo = require('mongodb');
 var monk = require('monk');
-//var db = monk('localhost:27017/server');
-var db = monk('mongodb://heroku_xs7f280m:ot6b3ktc731sinlba8b6gnbdue@ds041164.mongolab.com:41164/heroku_xs7f280m');
+var db = monk('localhost:27017/server');
+//var db = monk('mongodb://heroku_xs7f280m:ot6b3ktc731sinlba8b6gnbdue@ds041164.mongolab.com:41164/heroku_xs7f280m');
 var routes = require('./routes/index');
 var users = require('./routes/users');
 

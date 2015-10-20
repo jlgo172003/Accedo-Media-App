@@ -1,0 +1,13 @@
+1. Describe the data you would capture as part of this service.
+	- I'd want to capture the ff:
+		1. The video selected to be watched later
+		2. The date/time it was selected (to determine the order it would be shown)
+		
+2. How would make this service more efficient?
+	- Have an icon near each video (maybe a "star"). When clicked, then it means that the video is marked as "watch later".
+	
+3. Once the feature is complete, how would you know that it’s ready for go-live?
+	- After it has gone through testing and no bugs/issues were found.
+	
+4. How would you determine if this feature is successful?
+	- If a lot of the users are using this feature (maybe >= 50%)
